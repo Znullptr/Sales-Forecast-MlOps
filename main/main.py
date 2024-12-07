@@ -3,13 +3,11 @@ from fastapi import FastAPI, File, UploadFile
 import uvicorn
 from fastapi.middleware.cors import CORSMiddleware
 from src.clean_data_csv import clean_data
-import os
 import mlflow.pyfunc
-
 from dotenv import load_dotenv
 import os
-load_dotenv("../main/src/.env")
 
+load_dotenv("../main/src/.env")
 DagsHub_username = os.getenv("DagsHub_username")
 DagsHub_token=os.getenv("DagsHub_token")
 os.environ['MLFLOW_TRACKING_USERNAME']= DagsHub_username

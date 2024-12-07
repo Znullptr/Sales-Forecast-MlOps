@@ -17,7 +17,7 @@ os.environ["MLFLOW_TRACKING_PASSWORD"] = DagsHub_token
 
 
 # setup mlflow
-mlflow.set_tracking_uri('https://dagshub.com/bbhamed/mlops.mlflow')  # your mlfow tracking uri
+mlflow.set_tracking_uri('https://dagshub.com/Znullptr/Sales-Forecast-MLOps.mlflow')  # your mlfow tracking uri
 
 app = FastAPI()
 origins = ['*']

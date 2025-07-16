@@ -1,8 +1,4 @@
 
-In this project, we developed a **multivariate forecasting solution** to predict sales for a major **Tunisian company**.
-
----
-
 ## 📊 Problem Overview
 
 The original dataset was unstructured and scattered across multiple Word documents. This required:

@@ -12,6 +12,7 @@ The original dataset was unstructured and scattered across multiple Word documen
 <p>
    <img width="1000" height="500" src="https://github.com/Znullptr/Sales-Forecast-MlOps/blob/main/workflow.png">
     </p>  
+    
 # 🧠 Multivariate Sales Forecasting with Full MLOps Pipeline
 
 

@@ -90,6 +90,6 @@ This pipeline enabled:
 
 ## 📌 Note
 
-For a deeper look into the architecture and code, please refer to the `/notebooks`, `/main`, and `/data` directories in this repo.
+For a deeper look into the architecture and code, please refer to the `/notebooks` and `/main` directories in this repo.
 
 ---
